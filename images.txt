@@ -1,5 +1,7 @@
 postgis
-postgis/postgis:16-master
-#xhofe/alist:latest
+#支持私库
+postgis/postgis:15-3.4-alpine
+postgis/postgis:15-master
+xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
