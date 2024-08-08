@@ -1,5 +1,4 @@
 postgis
-#支持私库
 postgis/postgis:16-master
 #xhofe/alist:latest
 #支持指定架构
