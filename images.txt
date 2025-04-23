@@ -1,1 +1,1 @@
-rabbitmq:3.13.7-management-alpine
+postgis/postgis:17-master
