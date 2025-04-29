@@ -1,1 +1,1 @@
-postgis/postgis:17-master
+nikolaik/python-nodejs:python3.10-nodejs22
